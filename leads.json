@@ -1,0 +1,832 @@
+[
+  {
+    "phone": null
+  },
+  {
+    "title": "Houst",
+    "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjutf-23Z2JAxV0poMHHfcAONwYABABGgJlZg&co=1&ase=2&gclid=EAIaIQobChMI7rX_tt2diQMVdKaDBx33ADjcEBAYASAAEgKB-_D_BwE&ohost=www.google.com&cid=CAASE-RoO580krHo_oJXBEH3JdKMqD4&sig=AOD64_1BCAgS24eC00Ewxtyvp3QaS8C-LQ&adurl&q&ctype=99&nis=6",
+    "stars": 4.7,
+    "reviews": 201,
+    "phone": "+44 20 4525 727"
+  },
+  {
+    "title": "City Borough Housing Ltd",
+    "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjutf-23Z2JAxV0poMHHfcAONwYABAAGgJlZg&co=1&ase=2&gclid=EAIaIQobChMI7rX_tt2diQMVdKaDBx33ADjcEBAYAiAAEgLHj_D_BwE&ohost=www.google.com&cid=CAASE-RoO580krHo_oJXBEH3JdKMqD4&sig=AOD64_0YtVxhckqsC0sQ3PM4HTdVQim6sQ&adurl&q&ctype=99&nis=6",
+    "stars": 4.1,
+    "reviews": 11,
+    "phone": "+44 20 3790 922"
+  },
+  {
+    "title": "MIH Property Management Ltd",
+    "link": "https://www.mihproperty.co.uk/",
+    "stars": 4.6,
+    "reviews": 70,
+    "phone": "+44 20 3637 796"
+  },
+  {
+    "title": "J Property Management",
+    "link": "http://www.jpropertymanagement.co.uk/",
+    "stars": 4.8,
+    "reviews": 24,
+    "phone": "+44 20 3105 589"
+  },
+  {
+    "title": "Base Property Specialists - London's experts at letting & property management",
+    "link": "https://www.baseps.co.uk/",
+    "stars": 5.0,
+    "reviews": 106,
+    "phone": "+44 20 7033 190"
+  },
+  {
+    "title": "Gore Property Management London",
+    "link": "https://www.gorepropertymanagement.com/",
+    "stars": 5.0,
+    "reviews": 45,
+    "phone": "+44 7378 214260"
+  },
+  {
+    "title": "Reka Property Management Ltd",
+    "link": "http://rekaproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 60,
+    "phone": "+44 20 3286 646"
+  },
+  {
+    "title": "Curated Property - Property Management",
+    "link": "http://www.curated-property.com/",
+    "stars": 4.9,
+    "reviews": 72,
+    "phone": "+44 20 3603 900"
+  },
+  {
+    "title": "LIONSGATE PROPERTY MANAGEMENT",
+    "link": "http://lionsgate-property.com/",
+    "stars": 4.3,
+    "reviews": 141,
+    "phone": "+44 20 3053 670"
+  },
+  {
+    "title": "Greater London Properties (GLP) - Soho Estate Agents",
+    "link": "https://www.greaterlondonproperties.co.uk/?utm_source=google&utm_medium=referal&utm_campaign=soho&utm_term=soho&utm_content=soho",
+    "stars": 4.6,
+    "reviews": 123,
+    "phone": "+44 20 7734 406"
+  },
+  {
+    "title": "Blue Crystal Property Management",
+    "link": "http://www.bluecrystallondon.co.uk/",
+    "stars": 4.9,
+    "reviews": 30,
+    "phone": "+44 20 8994 732"
+  },
+  {
+    "title": "ADS Property Management",
+    "link": "https://adspropertymanagement.co.uk/",
+    "stars": 4.4,
+    "reviews": 205,
+    "phone": "+44 20 7205 460"
+  },
+  {
+    "title": "Just Property Management",
+    "link": "https://www.just-management.co.uk/",
+    "stars": 4.9,
+    "reviews": 18,
+    "phone": "+44 20 7228 994"
+  },
+  {
+    "title": "StayinLondon.co.uk",
+    "link": "http://www.stayinlondon.co.uk/",
+    "stars": 5.0,
+    "reviews": 202,
+    "phone": "+44 7474 118218"
+  },
+  {
+    "title": "1st Property Management",
+    "link": "https://www.1stpropertymanagement.co.uk/",
+    "stars": 4.4,
+    "reviews": 32,
+    "phone": "+44 20 3984 914"
+  },
+  {
+    "title": "Goldman Greg Estate Agency & Housing Management Services",
+    "link": "http://www.goldmangreg.co.uk/",
+    "stars": 4.9,
+    "reviews": 136,
+    "phone": "+44 20 7977 001"
+  },
+  {
+    "title": "Pont & Lyall - Property Management London",
+    "link": "http://www.pontandlyall.com/",
+    "stars": 5.0,
+    "reviews": 41,
+    "phone": "+44 20 3305 808"
+  },
+  {
+    "title": "Estate Management London Limited",
+    "link": "https://www.emluk.com/",
+    "stars": 4.6,
+    "reviews": 28,
+    "phone": "+44 20 7930 933"
+  },
+  {
+    "title": "BK Property Management Services - Guaranteed Rent",
+    "link": "https://www.bkpropertymanagementservices.com/",
+    "stars": 5.0,
+    "reviews": 24,
+    "phone": "+44 20 8470 142"
+  },
+  {
+    "title": "BRH Property Management & Solutions",
+    "link": "https://brhproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 18,
+    "phone": "+44 20 3539 852"
+  },
+  {
+    "title": "foxter",
+    "link": "http://www.foxter.co.uk/",
+    "stars": 4.9,
+    "reviews": 326,
+    "phone": "+44 20 8191 151"
+  },
+  {
+    "title": "Kensington Property Management",
+    "link": "https://www.kensingtonpropertymanagement.co.uk/",
+    "stars": 4.9,
+    "reviews": 27,
+    "phone": null
+  },
+  {
+    "title": "City Relay London",
+    "link": "https://cityrelay.com/",
+    "stars": 4.6,
+    "reviews": 757,
+    "phone": "+44 20 3865 061"
+  },
+  {
+    "title": "Jo & Co Property Management",
+    "link": "http://www.joandcoprop.com/",
+    "stars": 4.6,
+    "reviews": 49,
+    "phone": "+44 20 3633 797"
+  },
+  {
+    "title": "Kensington Property Management",
+    "link": "https://www.kensingtonpropertymanagement.co.uk/",
+    "stars": 4.9,
+    "reviews": 27,
+    "phone": null
+  },
+  {
+    "title": "BRH Property Management & Solutions",
+    "link": "https://brhproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 18,
+    "phone": "+44 20 3539 852"
+  },
+  {
+    "title": "Circa London Southwark Estate Agents",
+    "link": "http://www.circalondon.com/",
+    "stars": 4.8,
+    "reviews": 352,
+    "phone": "+44 20 3137 787"
+  },
+  {
+    "title": "Brix London",
+    "link": "http://brixlondon.com/",
+    "stars": 5.0,
+    "reviews": 60,
+    "phone": "+44 20 3091 237"
+  },
+  {
+    "title": "MBR Property Management",
+    "link": "https://www.mbrpropertymanagement.co.uk/",
+    "stars": 5.0,
+    "reviews": 10,
+    "phone": "+44 20 3005 347"
+  },
+  {
+    "title": "Urban Spectrum Property Management Ltd",
+    "stars": 4.4,
+    "reviews": 117,
+    "phone": "+44 20 8772 955"
+  },
+  {
+    "title": "Haus Block Management",
+    "link": "http://www.h-bm.co.uk/",
+    "stars": 3.8,
+    "reviews": 383,
+    "phone": "+44 20 7275 204"
+  },
+  {
+    "title": "M2 Property",
+    "link": "https://www.m2property.com/",
+    "stars": 4.5,
+    "reviews": 50,
+    "phone": "+44 20 7043 843"
+  },
+  {
+    "title": "London Habitat",
+    "link": "http://www.londonhabitat.co.uk/",
+    "stars": 4.8,
+    "reviews": 264,
+    "phone": "+44 20 7794 404"
+  },
+  {
+    "title": "Marland Property Management Ltd.",
+    "link": "https://www.marlandpm.com/",
+    "stars": 5.0,
+    "reviews": 10,
+    "phone": "+44 20 3667 275"
+  },
+  {
+    "title": "Paramount Properties",
+    "link": "https://www.paramount-properties.co.uk/",
+    "stars": 4.8,
+    "reviews": 1,
+    "phone": "+44 20 7372 020"
+  },
+  {
+    "title": "Hartswood Lettings & Property Management",
+    "link": "http://www.hartswoodproperty.co.uk/",
+    "stars": 4.6,
+    "reviews": 58,
+    "phone": "+44 20 8994 840"
+  },
+  {
+    "title": "Greater London Properties (GLP) - Soho Estate Agents",
+    "link": "https://www.greaterlondonproperties.co.uk/?utm_source=google&utm_medium=referal&utm_campaign=soho&utm_term=soho&utm_content=soho",
+    "stars": 4.6,
+    "reviews": 123,
+    "phone": "+44 20 7734 406"
+  },
+  {
+    "title": "Cadmus Property",
+    "link": "http://www.cadmusproperty.co.uk/",
+    "stars": 4.9,
+    "reviews": 18,
+    "phone": "+44 20 8064 198"
+  },
+  {
+    "title": "GuestReady London",
+    "link": "https://www.guestready.com/airbnb-management/london/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing-london",
+    "stars": 4.7,
+    "reviews": 827,
+    "phone": "+44 20 3868 340"
+  },
+  {
+    "title": "1st Property Management",
+    "link": "https://www.1stpropertymanagement.co.uk/",
+    "stars": 4.4,
+    "reviews": 32,
+    "phone": "+44 20 3984 914"
+  },
+  {
+    "title": "Premier London Property Limited",
+    "link": "http://www.premierlondonproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 17,
+    "phone": "+44 7793 217076"
+  },
+  {
+    "title": "Cemlux Homes | Property Lettings & Management | London",
+    "stars": 4.8,
+    "reviews": 35,
+    "phone": "+44 20 3668 544"
+  },
+  {
+    "title": "Somerset Estates Property Management",
+    "link": "https://www.somersetestates.com/",
+    "stars": 5.0,
+    "reviews": 3,
+    "phone": "+44 20 3457 285"
+  },
+  {
+    "title": "Real Estate Management",
+    "link": "https://www.thecitykeys.co.uk/",
+    "stars": 3.7,
+    "reviews": 3,
+    "phone": "+44 20 7866 212"
+  },
+  {
+    "title": "London Homes Property Limited",
+    "link": "http://uklondonhomes.com/",
+    "stars": 4.8,
+    "reviews": 18,
+    "phone": "+44 20 8033 887"
+  },
+  {
+    "title": "Quintessentially Estates",
+    "link": "http://www.quintessentiallyestates.com/",
+    "stars": 4.8,
+    "reviews": 94,
+    "phone": "+44 20 7201 070"
+  },
+  {
+    "title": "Living London",
+    "link": "https://livinglondon.com/",
+    "stars": 4.1,
+    "reviews": 152,
+    "phone": "+44 20 7101 442"
+  },
+  {
+    "title": "Oceanwide Properties - UK Office",
+    "link": "http://www.oceanwideproperties.co.uk/",
+    "stars": 5.0,
+    "reviews": 14,
+    "phone": "+44 20 7424 789"
+  },
+  {
+    "title": "Rent My Home | Letting Agents London",
+    "link": "http://www.rentmyhome.co.uk/",
+    "stars": 4.6,
+    "reviews": 76,
+    "phone": "+44 20 3875 699"
+  },
+  {
+    "title": "Care Property Management",
+    "link": "http://care-property.com/",
+    "phone": "+44 20 7373 988"
+  },
+  {
+    "title": "Rinvest Property Management and Lettings",
+    "link": "https://r-invest.co.uk/",
+    "stars": 5.0,
+    "reviews": 12,
+    "phone": "+44 7833 103624"
+  },
+  {
+    "title": "Lockwood & Cashman",
+    "link": "http://lockwoodandcashman.co.uk/",
+    "stars": 5.0,
+    "reviews": 29,
+    "phone": "+44 20 3205 703"
+  },
+  {
+    "title": "Reliance FM London",
+    "link": "http://www.rfmglobal.com/uk",
+    "stars": 5.0,
+    "reviews": 12,
+    "phone": "+44 20 3457 849"
+  },
+  {
+    "title": "South London Management",
+    "link": "http://www.southlondonmanagement.co.uk/",
+    "phone": "+44 7796 178946"
+  },
+  {
+    "title": "Property People",
+    "link": "http://www.property-people.co.uk/",
+    "stars": 4.7,
+    "reviews": 38,
+    "phone": "+44 20 8946 717"
+  },
+  {
+    "title": "Look Property",
+    "link": "http://www.lookproperty.com/",
+    "stars": 4.6,
+    "reviews": 68,
+    "phone": "+44 20 8981 999"
+  },
+  {
+    "title": "Property Elegance Management",
+    "link": "https://propertyelegancemanagement.com/",
+    "stars": 5.0,
+    "reviews": 1,
+    "phone": "+44 20 8050 575"
+  },
+  {
+    "title": "Avrasons Letting Agents and Property management in Oval",
+    "link": "https://www.avrasons.co.uk/contact-us/?utm_source=localmaps&utm_medium=gbp&utm_campaign=oval",
+    "stars": 4.7,
+    "reviews": 208,
+    "phone": "+44 20 7582 401"
+  },
+  {
+    "title": "Greater London Properties - Bloomsbury Estate Agents",
+    "link": "https://www.greaterlondonproperties.co.uk/?utm_source=google&utm_medium=referal&utm_campaign=bloomsbury&utm_term=bloomsbury&utm_content=bloomsbury",
+    "stars": 4.8,
+    "reviews": 88,
+    "phone": "+44 20 7113 106"
+  },
+  {
+    "title": "Sloan Block Management",
+    "link": "http://sloanmanagement.co.uk/",
+    "stars": 4.3,
+    "reviews": 30,
+    "phone": "+44 20 7221 493"
+  },
+  {
+    "title": "Leo Newman",
+    "link": "http://www.leonewman.co.uk/",
+    "stars": 4.7,
+    "reviews": 353,
+    "phone": "+44 20 7637 884"
+  },
+  {
+    "title": "ANG Property Management Ltd",
+    "link": "https://www.angpm.co.uk/",
+    "stars": 5.0,
+    "reviews": 2,
+    "phone": "+44 20 3876 715"
+  },
+  {
+    "title": "Foxtons London Bridge Estate Agents",
+    "link": "https://www.foxtons.co.uk/contact/foxtons_london_bridge_estate_agents.html?utm_campaign=Foxtons+London+Bridge+Estate+Agents&utm_medium=google_gmb&utm_source=Localistico_business_listing",
+    "stars": 4.6,
+    "reviews": 780,
+    "phone": "+44 20 7386 650"
+  },
+  {
+    "title": "Chesterfield House Management Ltd",
+    "stars": 4.2,
+    "reviews": 5,
+    "phone": "+44 20 7629 154"
+  },
+  {
+    "title": "Homes R Us Property Management London",
+    "link": "http://www.homesrus.co.uk/",
+    "stars": 5.0,
+    "reviews": 4,
+    "phone": "+44 20 8087 064"
+  },
+  {
+    "title": "Property Management Recruitment Ltd",
+    "link": "http://www.pmr.uk.com/",
+    "stars": 4.7,
+    "reviews": 245,
+    "phone": "+44 20 7436 036"
+  },
+  {
+    "title": "Dexters New Homes East and South East",
+    "link": "https://www.dexters.co.uk/contact-us/our-offices/new-homes-east-london",
+    "stars": 5.0,
+    "reviews": 45,
+    "phone": "+44 20 7749 381"
+  },
+  {
+    "title": "London Estate Agents | PropertyLoop",
+    "link": "http://www.propertyloop.co.uk/search",
+    "stars": 4.6,
+    "reviews": 300,
+    "phone": "+44 20 8989 756"
+  },
+  {
+    "title": "Strutt & Parker - Chelsea Management",
+    "link": "https://www.struttandparker.com/services/residential/let-a-property/compliance-and-legislative-issues",
+    "stars": 4.5,
+    "reviews": 36,
+    "phone": "+44 20 4571 637"
+  },
+  {
+    "title": "Ringley Limited Chartered Surveyors",
+    "link": "http://www.ringley.co.uk/",
+    "stars": 4.6,
+    "reviews": 602,
+    "phone": "+44 20 7267 290"
+  },
+  {
+    "title": "South West London Property - SWLP",
+    "link": "https://www.swlp.co.uk/",
+    "stars": 4.9,
+    "reviews": 109,
+    "phone": "+44 20 8767 089"
+  },
+  {
+    "title": "London Block Management",
+    "link": "http://www.blockmanagement.com/",
+    "stars": 3.3,
+    "reviews": 122,
+    "phone": "+44 20 7870 400"
+  },
+  {
+    "title": "Principia Estate and Asset Management",
+    "link": "http://www.principialondon.co.uk/",
+    "stars": 3.8,
+    "reviews": 80,
+    "phone": "+44 20 7341 022"
+  },
+  {
+    "title": "The Property Manager UK",
+    "link": "http://www.thepropertymanageruk.co.uk/",
+    "stars": 4.2,
+    "reviews": 10,
+    "phone": "+44 20 3326 626"
+  },
+  {
+    "title": "SBA Property Management",
+    "link": "http://www.sbaproperty.com/",
+    "stars": 4.3,
+    "reviews": 7,
+    "phone": "+44 20 7629 494"
+  },
+  {
+    "title": "Urang Property Management",
+    "link": "https://www.urang.co.uk/",
+    "stars": 2.6,
+    "reviews": 168,
+    "phone": "+44 20 7751 835"
+  },
+  {
+    "title": "Optimum Property Management Limited",
+    "link": "http://optpm.co.uk/",
+    "phone": "+44 20 7842 053"
+  },
+  {
+    "title": "London Property Management Services",
+    "link": "http://lpmservicesltd.co.uk/",
+    "phone": "+44 7581 357803"
+  },
+  {
+    "title": "London Property Managers",
+    "link": "http://www.londonpropertymanagers.co.uk/",
+    "stars": 4.0,
+    "reviews": 4,
+    "phone": "+44 7428 681507"
+  },
+  {
+    "title": "Unique Property Company",
+    "link": "http://uniquepropertycompany.co.uk/",
+    "stars": 4.8,
+    "reviews": 98,
+    "phone": "+44 20 3987 173"
+  },
+  {
+    "title": "Peach Properties",
+    "link": "http://www.peachproperties.com/",
+    "stars": 4.8,
+    "reviews": 366,
+    "phone": "+44 20 7739 696"
+  },
+  {
+    "title": "H J J Property Management Ltd",
+    "stars": 5.0,
+    "reviews": 1,
+    "phone": "+44 7769 886902"
+  },
+  {
+    "title": "Properly - Estate Agent - Property Management - Property Sales - New Homes - Buying Service",
+    "link": "http://www.properly.space/",
+    "stars": 5.0,
+    "reviews": 113,
+    "phone": "+44 20 7459 440"
+  },
+  {
+    "title": "The London Management Company",
+    "link": "https://www.thelondonmanagementcompany.com/",
+    "stars": 3.7,
+    "reviews": 3,
+    "phone": "+44 20 7193 997"
+  },
+  {
+    "title": "Folio London",
+    "link": "http://www.foliolondon.co.uk/",
+    "stars": 4.1,
+    "reviews": 422,
+    "phone": "+44 20 3815 048"
+  },
+  {
+    "title": "Wapping Property Management",
+    "link": "http://wapping.epizy.com/",
+    "phone": null
+  },
+  {
+    "title": "Brackenbury Property Management",
+    "link": "http://www.brackenbury-management.co.uk/",
+    "stars": 4.3,
+    "reviews": 6,
+    "phone": "+44 20 3002 360"
+  },
+  {
+    "title": "Dutch & Dutch Estate Agents",
+    "link": "http://dutchanddutch.com/",
+    "stars": 4.8,
+    "reviews": 274,
+    "phone": "+44 20 7794 778"
+  },
+  {
+    "title": "AirOperate| AirBnB Property Management|London|Brighton|Manchester|Edinburgh|Luton|Oxford",
+    "link": "https://airoperate.co.uk/?utm_source=Organic&utm_medium=GMB-Local-London&utm_id=Google",
+    "stars": 4.1,
+    "reviews": 55,
+    "phone": "+44 330 818 2808"
+  },
+  {
+    "title": "Hudsons Property",
+    "link": "https://www.hudsonsproperty.com/?utm_source=Google%20My%20Business&utm_medium=Website",
+    "stars": 4.8,
+    "reviews": 313,
+    "phone": "+44 20 7323 227"
+  },
+  {
+    "title": "House Manage Limited",
+    "link": "https://www.housemanage.co.uk/",
+    "stars": 4.2,
+    "reviews": 10,
+    "phone": "+44 20 3970 009"
+  },
+  {
+    "title": "City Link Property Management",
+    "link": "http://www.citylinkproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 5,
+    "phone": "+44 20 7790 779"
+  },
+  {
+    "title": "London Land Management Ltd",
+    "link": "https://www.londonland.co.uk/",
+    "stars": 4.0,
+    "reviews": 12,
+    "phone": "+44 20 7591 028"
+  },
+  {
+    "title": "Westways Estate Agents",
+    "link": "https://www.westways.co.uk/",
+    "stars": 4.7,
+    "reviews": 191,
+    "phone": "+44 20 7286 575"
+  },
+  {
+    "title": "Acara Management",
+    "link": "http://acara.co.uk/",
+    "stars": 4.7,
+    "reviews": 108,
+    "phone": "+44 20 8226 420"
+  },
+  {
+    "title": "DEX Property Management",
+    "link": "http://www.dexpropertymanagement.co.uk/",
+    "stars": 3.6,
+    "reviews": 80,
+    "phone": "+44 800 085 5994"
+  },
+  {
+    "title": "Ellisons Lettings & Property Management",
+    "link": "http://www.ellisons.uk.com/",
+    "stars": 4.9,
+    "reviews": 127,
+    "phone": "+44 20 8944 862"
+  },
+  {
+    "title": "Parallel Property Management Limited",
+    "phone": null
+  },
+  {
+    "title": "Acorn Estate Agents and Letting Agents in London Bridge",
+    "link": "https://www.acorngroup.co.uk/our-offices/estate-agents-in-london-bridge?utm_source=localmaps&utm_medium=gbp&utm_campaign=gmb_london_bridge",
+    "stars": 4.8,
+    "reviews": 287,
+    "phone": "+44 20 7089 656"
+  },
+  {
+    "title": "UpperKey",
+    "link": "https://theupperkey.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8939917102128691924",
+    "stars": 4.4,
+    "reviews": 16,
+    "phone": "+44 7782 502628"
+  },
+  {
+    "title": "Franklin London - Luxury Property Maintenance London",
+    "link": "https://www.franklinlondon.com/property-maintenance-london-landing/",
+    "stars": 5.0,
+    "reviews": 1,
+    "phone": "+44 20 3633 203"
+  },
+  {
+    "title": "JCF Property Management",
+    "link": "https://jcfpropertymanagement.com/",
+    "stars": 3.6,
+    "reviews": 34,
+    "phone": "+44 20 8788 970"
+  },
+  {
+    "title": "JCF Property Management",
+    "link": "https://jcfpropertymanagement.com/",
+    "stars": 3.6,
+    "reviews": 34,
+    "phone": "+44 20 8788 970"
+  },
+  {
+    "title": "McGlashans Property Services",
+    "link": "http://www.mcglashans.co.uk/",
+    "stars": 4.7,
+    "reviews": 53,
+    "phone": "+44 20 7486 671"
+  },
+  {
+    "title": "Farrar & Co Sales and Lettings",
+    "link": "http://www.farrar.co.uk/",
+    "stars": 4.9,
+    "reviews": 33,
+    "phone": "+44 20 7244 444"
+  },
+  {
+    "title": "Local Property Management Company",
+    "phone": "+44 7727 014154"
+  },
+  {
+    "title": "London Property - Home of Super Prime",
+    "link": "http://www.londonproperty.co.uk/",
+    "stars": 5.0,
+    "reviews": 5,
+    "phone": "+44 20 7581 163"
+  },
+  {
+    "title": "Prudential Property Management Ltd",
+    "link": "http://www.prudentialpromanagement.co.uk/",
+    "stars": 4.3,
+    "reviews": 6,
+    "phone": "+44 20 3929 345"
+  },
+  {
+    "title": "Locations London",
+    "link": "https://www.locations.london/",
+    "stars": 5.0,
+    "reviews": 18,
+    "phone": "+44 20 7629 111"
+  },
+  {
+    "title": "London Executive",
+    "link": "https://www.london-executive.com/",
+    "stars": 4.5,
+    "reviews": 148,
+    "phone": "+44 7476 557447"
+  },
+  {
+    "title": "Property and Homes Management LTD",
+    "link": "https://propertyandhomes.co.uk/",
+    "stars": 5.0,
+    "reviews": 7,
+    "phone": "+44 20 7149 899"
+  },
+  {
+    "title": "Property Matters (London) Ltd",
+    "link": "http://www.propertymatters.co.uk/",
+    "stars": 4.9,
+    "reviews": 60,
+    "phone": "+44 20 7538 010"
+  },
+  {
+    "title": "Residential Property Management Group",
+    "link": "https://www.residentialpropertymanagementgroup.co.uk/",
+    "stars": 4.3,
+    "reviews": 6,
+    "phone": "+44 20 3239 606"
+  },
+  {
+    "title": "Property Mart",
+    "stars": 4.5,
+    "reviews": 8,
+    "phone": "+44 20 8519 941"
+  },
+  {
+    "title": "Chestertons Covent Garden Estate Agents",
+    "link": "https://www.chestertons.co.uk/en-gb/network/central-london/covent-garden?utm_source=Google&utm_medium=Local",
+    "stars": 4.9,
+    "reviews": 208,
+    "phone": "+44 20 3040 840"
+  },
+  {
+    "title": "The London Agent",
+    "link": "http://www.thelondonagent.com/",
+    "stars": 4.4,
+    "reviews": 26,
+    "phone": "+44 20 3012 180"
+  },
+  {
+    "title": "LPMS.uk \u2013 London Property Management Services",
+    "link": "https://lpms.uk/contact/",
+    "phone": "+44 20 8533 775"
+  },
+  {
+    "title": "Space Management",
+    "link": "http://www.spacemanagement.co.uk/",
+    "stars": 4.0,
+    "reviews": 33,
+    "phone": "+44 20 7602 766"
+  },
+  {
+    "title": "Property Management London",
+    "link": "https://property-management-london.ueniweb.com/?utm_campaign=gmb",
+    "phone": "+44 800 246 5844"
+  },
+  {
+    "title": "Burlington Property Management",
+    "link": "http://www.burlingtonpm.com/",
+    "phone": "+44 20 7100 012"
+  },
+  {
+    "title": "Lexadon Property Group",
+    "link": "http://www.lexadon.co.uk/",
+    "stars": 3.3,
+    "reviews": 150,
+    "phone": "+44 20 7735 715"
+  },
+  {
+    "title": "H&G Riverside Estate Agents",
+    "link": "http://www.hgproperty.co.uk/",
+    "stars": 4.8,
+    "reviews": 142,
+    "phone": "+44 20 7352 245"
+  }
+]
